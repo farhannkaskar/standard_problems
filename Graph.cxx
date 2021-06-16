@@ -122,7 +122,6 @@ public:
         minHeap.push(connectedNode);
       }
     }
-
     return nodeToCost;
   }
 };
